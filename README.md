@@ -1,10 +1,16 @@
 # dev-portfolio
 # 🧑‍💻 My Freelance Developer Portfolio
 
-Hi! I'm Pradeep Kumar, a Full Stack Developer specializing in React, Angular, and Java Spring Boot.
+# 👋 Hi, I'm Pradeep Kumar
+
+Full Stack Developer | React | Angular | Java Spring Boot
+
+🔧 Tech Stack:
+- Frontend: React, Angular, TypeScript, Bootstrap, Tailwind
+- Backend: Java, Spring Boot, Spring Security, JPA, MySQL/PostgreSQL
+- DevOps: Docker, GitHub Actions
 
 ## 🚀 Featured Projects
-
 ### 🔷 React Admin Dashboard  
 A modern, responsive dashboard with authentication and charts  
 🔗 [View Repo](https://github.com/pradeep1734217/react-dashboard)
@@ -20,3 +26,7 @@ Secure REST API with token-based login
 ### 🌐 Fullstack File Uploader  
 Frontend + backend file upload system with progress tracking  
 🔗 [View Repo](https://github.com/pradeep1734217/fullstack-upload)
+
+📫 Let's work together! Connect with me:
+- Email: pradeep.chakravorty1@gmail.com
+- LinkedIn: linkedin.com/in/yourprofile
