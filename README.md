@@ -9,7 +9,13 @@ Full Stack Developer | React | Angular | Java Spring Boot
 - Frontend: React, Angular, TypeScript, Bootstrap, Tailwind
 - Backend: Java, Spring Boot, Spring Security, JPA, MySQL/PostgreSQL
 - DevOps: Docker, GitHub Actions
-
+Services I offer:
+- Admin Dashboard Development
+- CRUD Applications
+- File Upload / Download with REST APIs
+- JWT Authentication & Role-based Authorization
+- API Integration (Payment, Weather, etc.)
+- Bug fixing & performance improvements
 ## 🚀 Featured Projects
 ### 🔷 React Admin Dashboard  
 A modern, responsive dashboard with authentication and charts  
